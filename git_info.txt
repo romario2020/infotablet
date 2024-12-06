@@ -25,3 +25,4 @@ git diff catalog/models.py
 откатить до состояния сервера и залить на хостинг
 1. git checkout. (точка в конце)
 2. git  pull
+1
